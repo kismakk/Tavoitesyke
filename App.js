@@ -30,8 +30,6 @@ export default function App() {
   );
 }
 
-// TODO: Fix calc
-
 const styles = StyleSheet.create({
   container: {
     flex: 1,
